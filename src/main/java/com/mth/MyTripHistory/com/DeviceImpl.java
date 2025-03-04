@@ -1,4 +1,5 @@
 package com.mth.MyTripHistory.com;
 
-public interface Device {
+public interface DeviceImpl {
+
 }
